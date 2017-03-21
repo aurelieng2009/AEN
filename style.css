@@ -1,0 +1,236 @@
+@font-face{
+	font-family: "font-one";
+	src: url('font/font1/OptimusPrinceps.ttf');
+}
+
+@font-face{
+	font-family: "font-two";
+	src: url('font/font2/NeutonCursive-Regular.ttf');
+}
+
+body{
+	background-image: url(images/fond1.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+}
+
+b{
+	color: rgb(60,100,180);
+}
+
+#menu{
+	font-family: font-two;
+	font-size: 15px;
+}
+
+.font-fam{
+	font-family: font-one;
+}
+
+.area-under-nav{
+	margin-top: 51px;
+	background-color: rgb(45, 45, 45);
+	font-family: font-one;
+}
+
+.area-under-nav-register{
+	margin-top: 51px;
+	background-color: rgba(40,40,40,0.2);
+	height: 100vh;
+}
+
+.contact{ 
+	margin-top: 51px;
+	background-color: rgba(40,40,40,0.2);
+	height: 100vh;
+	font-family: font-two;
+	text-align: center;
+}
+
+.area-under-nav-cgu{
+	margin-top: 51px;
+	color: white;
+	font-family: font-one;
+	text-align: justify;
+}
+
+.space-cgu{
+	background-color: rgb(40,40,40);
+}
+
+.formulaire{
+	background-color: rgba(40,40,40,0.7);
+	height: 100vh;
+}
+
+.formulaire-photo-one{
+	height: 100vh;
+}
+
+.formulaire-photo-two{
+	height: 100vh;
+}
+
+.aerodrome{
+	text-align: center;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	font-size: 40px;
+	color: rgb(60,100,180);
+}
+
+.aerodrome_two{
+	text-align: center;
+	color: white;
+	font-size: 15px;
+}
+
+.area-info{
+	background-color: rgb(40,40,40);
+	font-family: font-two;
+	text-align: center;
+}
+
+.form-info{
+	text-align: center;
+}
+
+.area-info-col{
+	text-align: center;
+}
+
+.area-btn{
+	background-color: rgb(45, 45, 45);
+	text-align: center;
+	padding: 20px;
+	font-family: font-two;
+}
+
+.space{
+	line-height:100px;
+	vertical-align: middle;
+	font-size: 20px;
+}
+
+.part{
+	text-align: center;
+	color: white;
+	height: 700px;
+	font-size: 50px;
+	padding-top: 50px;
+	font-family: font-two;
+	overflow: hidden;
+}
+
+.part-one{
+	text-align: center;
+	height: 60%;
+	font-size: 50px;
+	padding-top: 20px;
+	background-color: rgba(40,40,40,0.5);
+	font-family: font-two;
+	overflow: hidden;
+}
+
+.part-one-txt{
+	color: white;
+	font-size: 25px;
+}
+
+.here{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.footer{
+	background-color: rgb(40,40,40);
+	color: white;
+	text-align: center;
+	padding: 20px;
+	font-family: font-two;
+	font-size: 20px;
+}
+
+.space-legend{
+	margin-top: 20px;
+	color: rgb(200,164,1);
+	font-family: font-one;
+	font-size: 25px;
+}
+
+.space-label{
+	margin-bottom: 10px;
+	color: white;
+	font-family: font-one;
+	font-size: 20px;
+}
+
+.space-input{
+	margin-bottom: 30px;
+	font-family: font-one;
+}
+
+.cgu{
+	color: white;
+	font-family: font-one;
+}
+
+.logo{
+	height: 100px;
+}
+
+.size-container{
+	height: 100px;
+}
+
+.img-caroussel{
+	width: 100%;
+	height: 600px;
+}
+
+.caroussel{
+	width: 90%;
+}
+
+.weather{
+	border:1px;
+	border-style: solid; 
+	border-color: white; 
+	border-radius: 50px; 
+	background-color: rgba(0, 0, 0, 0.3); 
+	margin-bottom: 20px;
+}
+
+.weather-top{
+	margin: 10px;
+}
+
+.weather-tittle{
+	color: rgb(60,100,180); 
+	font-size: 30px;
+}
+
+.weather-img{
+	margin-top: 10px; 
+	margin-bottom: 20px;
+}
+
+.weather-data{
+	margin-top: 10px; 
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+
+.weather-images{
+	width: 50%;
+}
+
+.color{
+	color: rgb(140,180,250);
+}
+
+.font-size{
+	font-size: 25px;
+}
